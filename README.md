@@ -5,7 +5,7 @@
 Solving DSA problems topic-wise for MAANG preparation.
 
 ## Progress
-- Arrays: 15 problems
+- Arrays: 1 problems
 - Linked Lists: 0 problems
 - Stack/Queue: 0 problems
 
